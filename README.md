@@ -1,2 +1,2 @@
 # JavaProjects
-Little projects built in order to learn
+Little projects built in Java in order to learn

@@ -1,0 +1,18 @@
+Elevul Matei cu ID-ul 1 are urmatoarea situatie scoalara: 
+Media finala la LimbaRomana este: 4
+Media finala la Matematica este: 10
+Media finala la Informatica este: 5
+Media finala la Geografie este: 3
+Toate acestea ducand la o medie finala de: 5
+Elevul Vlad cu ID-ul 2 are urmatoarea situatie scoalara: 
+Media finala la LimbaRomana este: 5
+Media finala la Matematica este: 7
+Media finala la Informatica este: 2
+Media finala la Geografie este: 3
+Toate acestea ducand la o medie finala de: 4
+Elevul Costel cu ID-ul 3 are urmatoarea situatie scoalara: 
+Media finala la LimbaRomana este: 5
+Media finala la Matematica este: 10
+Media finala la Informatica este: 2
+Media finala la Geografie este: 3
+Toate acestea ducand la o medie finala de: 5
